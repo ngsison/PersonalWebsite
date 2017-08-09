@@ -10,7 +10,7 @@ namespace ngsison.Controllers
     {
         public IActionResult Index()
         {
-			ViewData["Title"] = "ngsison - Home";
+			ViewData["Title"] = "Nathaniel Brion Sison";
             return View();
         }
     }
